@@ -1,0 +1,15 @@
+Epoch 10/100, Loss: 0.9992, Train Acc: 0.4022
+Epoch 20/100, Loss: 0.8491, Train Acc: 0.5618
+Epoch 30/100, Loss: 0.6331, Train Acc: 0.6143
+Epoch 40/100, Loss: 0.4909, Train Acc: 0.6824
+Epoch 50/100, Loss: 0.4279, Train Acc: 0.7252
+Epoch 60/100, Loss: 0.3590, Train Acc: 0.7476
+Epoch 70/100, Loss: 0.3239, Train Acc: 0.7656
+Epoch 80/100, Loss: 0.3165, Train Acc: 0.7732
+Epoch 90/100, Loss: 0.2766, Train Acc: 0.7893
+Epoch 100/100, Loss: 0.2347, Train Acc: 0.7951
+
+
+
+
+
